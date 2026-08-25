@@ -152,7 +152,7 @@ S# is in its design phase and evolving quickly. Design discussion happens in `do
 
 ## License
 
-TBD.
+[MIT LICENSE](LICENSE)
 
 ---
 
